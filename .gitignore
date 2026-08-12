@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda
+anaconda_projects/
+project_filebrowser.db
+
+# VS Code / Dev Containers
+.devcontainer/
+.virtual_documents/
+
+# Environment
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
