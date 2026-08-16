@@ -95,7 +95,7 @@ if not os.path.exists(MODEL_FILE):
     model = XGBRegressor(n_estimators=700,
                          max_depth=7,
                          learning_rate=0.05,
-                         subsample=0.8,
+                         subsample=1.0,
                          colsample_bytree=0.8,
                          random_state=42)
 

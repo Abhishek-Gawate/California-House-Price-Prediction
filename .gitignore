@@ -7,10 +7,11 @@ __pycache__/
 
 # Anaconda
 anaconda_projects/
+anaconda_projects/db
 project_filebrowser.db
 
 # VS Code / Dev Containers
-.devcontainer/
+.devcontainer/git st
 .virtual_documents/
 
 # Environment
